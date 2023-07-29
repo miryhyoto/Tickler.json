@@ -1,2 +1,0 @@
-# Tickler.json
-Tester
